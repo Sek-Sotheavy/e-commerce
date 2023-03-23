@@ -133,15 +133,15 @@
   }
 
   .product > div {
-    background-color: #d9d9d9;
+   // background-color: #d9d9d9;
     width: 200px;
     margin: 30px;
    padding: 25px;
   }
   .logo{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+   // display:block;
+   // margin-left: auto;
+   // margin-right: auto;
   }
 }
 </style>
